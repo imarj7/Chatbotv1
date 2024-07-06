@@ -7,7 +7,7 @@ let userMessage = null;
 const inputInitHeight = chatInput.scrollHeight;
 
 const RAPIDAPI_URL = 'https://infinite-gpt.p.rapidapi.com/infinite-gpt';
-const RAPIDAPI_KEY = '0986c508cbmshc11c7cf4af923f4p12e36fjsn92a35dff84e4';
+const RAPIDAPI_KEY = '372f7e9d90msh72032bb88ddce8dp1ce713jsn0509e409f2d8';
 
 const createChatLi = (message, className) => {
     const chatLi = document.createElement("li");
