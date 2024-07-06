@@ -9,7 +9,7 @@ const inputInitHeight = chatInput.scrollHeight;
 
 // RapidAPI configuration
 const RAPIDAPI_URL = 'https://infinite-gpt.p.rapidapi.com/infinite-gpt';
-const RAPIDAPI_KEY = '9d8c3f6951msh5fd4d1f65fc57bcp19aa24jsnf17a1dd9cee2'; // Replace with your actual RapidAPI key
+const RAPIDAPI_KEY = '647584f8f3msh22d39147a5ceb5bp1b3a20jsne425f920305c'; // Replace with your actual RapidAPI key
 
 const createChatLi = (message, className) => {
     const chatLi = document.createElement("li");
